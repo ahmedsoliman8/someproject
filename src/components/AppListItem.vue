@@ -2,7 +2,7 @@
   <div>
     <a href="#" @click.prevent="confirm=true">Delete</a>
     <AppModal :open="confirm" @yes="deleteItem" @no="confirm = false">
-      <div>Are You Sure to delete ?</div>
+      <div>Are You Sure to delete this element?</div>
     </AppModal>
   </div>
 </template>
