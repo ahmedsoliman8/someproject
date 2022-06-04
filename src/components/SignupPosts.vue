@@ -1,5 +1,6 @@
 <template>
   <div>
+    <p>SignUp Styles</p>
     {{ posts }}
   </div>
 </template>
