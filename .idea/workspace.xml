@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2832df4e-6f20-441d-969f-03e02dbde6c3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/someproject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/SignupPosts.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SignupPosts.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1654459284504</updated>
       <workItem from="1654459287683" duration="240000" />
+      <workItem from="1654460172828" duration="54000" />
     </task>
     <servers />
   </component>
