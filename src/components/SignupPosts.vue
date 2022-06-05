@@ -1,6 +1,6 @@
 <template>
   <div>
-    <p>SignUp Styles</p>
+    <p>SignUp Styles!</p>
     {{ posts }}
   </div>
 </template>
