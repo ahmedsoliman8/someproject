@@ -15,7 +15,10 @@ export default {
     const posts = await axios.get("https://jsonplaceholder.typicode.com/todos");
     console.log('Top Posts');
     return {
-      posts
+      if(posts){
+        return posts;
+      }
+      
     };
   }
 }
