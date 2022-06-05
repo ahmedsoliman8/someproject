@@ -3,6 +3,9 @@
     <h2>SignUp Styles!</h2>
 
     {{ posts }}
+
+    <form  method="" action="">
+    </form>
   </div>
 </template>
 
