@@ -15,6 +15,8 @@
     
     <p>some project</p>
 
+    <p>terms</p>
+
 
     <form  method="" action="">
     </form>
